@@ -1,0 +1,22 @@
+.div_heading{
+    width: 100%;
+    text-align: left;
+
+}
+
+.div_heading h3{
+    display: inline;
+}
+
+.div_heading button{
+    float: right;
+    border: 1px white solid;
+}
+
+.mario_img{
+    width: 100%;
+}
+
+#start #status{
+    font-size: 22px;
+}
